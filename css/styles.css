@@ -49,4 +49,8 @@ margin-left: 200px;
   border: double; color: black;
   text-align: center;
   display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 300px;
 }
+
