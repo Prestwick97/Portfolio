@@ -18,7 +18,17 @@ body {
 
 .project {
   border: double; color: black;
+  height: 250px;
+  text-align: center;
 }
+
 ul {
   list-style-position:inside;
+}
+h2 {
+  color: black;
+}
+span {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
 }
