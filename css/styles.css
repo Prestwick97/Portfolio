@@ -16,8 +16,6 @@ body {
   background-color: #c99f9f;
 }
 
-.recent {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.project {
+  border: double; color: black;
 }
