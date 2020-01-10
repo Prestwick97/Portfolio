@@ -29,7 +29,7 @@ h2 {
   color: black;
 }
 span {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, orange, red);   -webkit-background-clip: text;
   color: transparent;
 }
 
@@ -52,5 +52,6 @@ margin-left: 200px;
   margin-right: auto;
   margin-left: auto;
   width: 300px;
+  
 }
 
