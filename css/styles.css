@@ -1,0 +1,13 @@
+.goofball {
+  height:300px;
+  width: 300 px;
+}
+.intro {
+  border: double; color: black;
+  font-family:"times new roman";
+  height: 350 px;
+  width: 350px;
+}
+body {
+  text-align: center;
+}
