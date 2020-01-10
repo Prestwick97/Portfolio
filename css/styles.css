@@ -37,3 +37,16 @@ span {
   float: left;
 }
 
+ol {
+  list-style-position:inside;
+}
+
+.about1 {
+margin-right: 200px;
+margin-left: 200px;
+}
+.background { 
+  border: double; color: black;
+  text-align: center;
+  display: inline-block;
+}
