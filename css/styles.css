@@ -19,3 +19,6 @@ body {
 .project {
   border: double; color: black;
 }
+ul {
+  list-style-position:inside;
+}
