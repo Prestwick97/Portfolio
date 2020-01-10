@@ -2,15 +2,22 @@
   height:300px;
   width: 300 px;
 }
+
 .intro {
   border: double; color: black;
   font-family:"times new roman";
-  height: 350 px;
-  width: 350px;
+  height: 390px;
+  width: 370px;
   margin: 0 auto;
-
 }
+
 body {
   text-align: center;
   background-color: #c99f9f;
+}
+
+.recent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
