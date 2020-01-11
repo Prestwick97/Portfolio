@@ -10,7 +10,7 @@
 
 </head>
 <body>
-  <div class="container-fluid">
+  <div class="container-fluid" class="well"> <!--Couldn't get "well" class to work on any divs-->
 
     <div class= intro>
         <h1>Patrick S. Delaney</h1>
@@ -87,10 +87,10 @@
     <br>
 
     <h2><strong>~About Me~</strong></h2> <!--Text won't stay within border when viewpoint shrinks-->
-
-    <div class="about1" class="row">
-      <div class=col-md-12 class="well">
-        <div class="bg-danger" class="well">
+<!--Had a hard time centering text within border/column of "about me"-->
+    <div class="about1" class="row" class="well">
+      <div class=col-md-12>
+        <div class="bg-danger">
           <div class= "project">
             <p>Patrick Delaney</p>
             <div class="about">
@@ -104,7 +104,7 @@
               </ul>
             </div>
 
-            <div class="about" class="well">
+            <div class="about">
               <p><strong>Intersts:</strong></p>
               <ul>
                 <li>Programming</li>
@@ -161,8 +161,12 @@
               <li>Manager of fermentation at Yachats Brewery</li>
               <li>Assistant Manager at Life of Pie</li>
             </ol>
-          </div>
+          </div> 
         </div>  
+        <div class="bg-danger" class="contact">
+          <h2>Contact me:</h2>
+          <p>Email: Prestwick97@gmail.com</p>
+        </div>
       </div>
     </div>
 
